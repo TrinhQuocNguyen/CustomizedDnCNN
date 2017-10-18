@@ -1,0 +1,7 @@
+*.pyc
+checkpoint/
+sample/
+*.npy
+test/
+.idea/
+#data/
